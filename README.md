@@ -12,3 +12,4 @@ Is there any correlation between the data and the failures?
 Sample ML:
 Sound Classification with TensorFlow https://medium.com/iotforall/sound-classification-with-tensorflow-8209bdb03dfb
 Audio Data Analysis using Deep Learning https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
+All possible github sources about audio recognition: https://github.com/topics/audio-recognition
