@@ -1,5 +1,6 @@
 # diagnose-outotec-voice
-The challenge for diagnosing how the factory operates and predict future failures to prevent them by VOICE
+The challenge for diagnosing how the factory operates and predict future failures to prevent them by VOICE   
+https://2018.hackjunction.com/challenges/i-hear-voices-in-my-factory
 
 Given data:
 1 Raw (WAV sound format)
