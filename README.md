@@ -1,5 +1,5 @@
 # diagnose-outotec-voice
-##Junction2018
+## Junction2018
 
 The challenge for diagnosing how the factory operates and predict future failures to prevent them by VOICE   
 https://2018.hackjunction.com/challenges/i-hear-voices-in-my-factory
