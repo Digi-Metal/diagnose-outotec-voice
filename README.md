@@ -12,9 +12,9 @@ Given data:
 Problem of interest:
 Is there any correlation between the data and the failures?
 
-Presentation of work done:
-https://docs.google.com/presentation/d/1Xs_0dQA_T5WtxK8GnS10yOMN2JfAHo9xW8nufiCNyDk/edit#slide=id.p
-
+Presentation of work done:  
+https://docs.google.com/presentation/d/1Xs_0dQA_T5WtxK8GnS10yOMN2JfAHo9xW8nufiCNyDk/edit#slide=id.p. 
+  
 Sample ML:
 Sound Classification with TensorFlow https://medium.com/iotforall/sound-classification-with-tensorflow-8209bdb03dfb
 
